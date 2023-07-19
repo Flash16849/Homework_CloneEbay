@@ -1,0 +1,90 @@
+.more-info{
+    text-align: right;
+}
+
+.logo{
+    text-align: left;
+    height: 60px;
+}
+
+.logo img {
+    width: 250px; height: 200px; position: absolute; top: -15px; left: 25px;
+    clip: rect(50px, 150px, 95px, 0px);
+}
+
+.sign-in-title{
+    margin-bottom: 30px;
+}
+
+.sign-in-title >h1{
+    text-align: center; font-size: 40px;
+    margin-bottom: 0%; margin-top: 1%;
+}
+
+.sign-in-title >p{
+    text-align: center;
+}
+
+.position-center{
+    text-align: center; margin-top: 30px;
+}
+
+.input-box{
+    border-radius: 10px; width: 323px; height: 30px; border-color: lightgray;
+    border-style: ridge;
+}
+
+.button-continue{
+    color: white; font-size: larger; font-weight: 650; border: none;
+    padding: 7px 125px 7px 125px;
+    border-radius: 25px; background-color:rgb(53, 72, 246)
+}
+
+
+.sm-button{
+    font-size: large; font-weight: 650; border-color: black;
+    padding-top: 9px; padding-left: 65px; padding-bottom: 9px; padding-right: 63px;
+    border-radius: 25px; background-color: white; color: black;
+}
+
+#button-f-g{
+    border: none;
+    background-color:rgb(63, 75, 182);
+    color: white;
+}
+
+#button-f-g >img{
+    width: 15px; height: 15px; background-color: white;
+}
+#button-f-g >a{
+    text-decoration: none; color: white;
+}
+
+.sm-button >img{
+    margin: 0 0 ; width: 15px; height: 17px; background-color: white;
+}
+
+.sm-button >a{
+    text-decoration: none; color: black;
+}
+
+.sm-button >input{
+    background-color: white; border-color: black; 
+}
+
+.learn-more-box{
+    text-align: center;
+    margin: 11px auto; width: 300px; background-color: rgb(49, 111, 235);
+    color: white; border-top: 20px;
+}
+
+.learn-more-box >p{
+    font-size: smaller; text-align: left; padding: 20px 20px 20px 40px;
+}
+
+.footer{
+    text-align: center; font-size: small; margin-top: 30px; margin-bottom: 30px;
+}
+.footer >a{
+    color: gray;
+}
